@@ -85,8 +85,8 @@ Welcome to the **Car Sales Analysis** project! This project is a comprehensive d
 
 ## 📧 Contact
 If you have any questions or suggestions, feel free to reach out:
-- **Email**: yourname@example.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com)
+- **Email**: vaibhavkumar11.mail@gmail.com
+- **LinkedIn**: [Your Profile](linkedin.com/in/vaibhav-kumar-1b552a22a/)
 
 ---
 
