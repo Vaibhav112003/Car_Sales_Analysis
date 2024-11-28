@@ -91,3 +91,15 @@ If you have any questions or suggestions, feel free to reach out:
 ---
 
 Thank you for exploring the **Car Sales Analysis Dashboard**! 🚘
+
+
+# Result 
+
+## Page 1
+
+![](https://github.com/Vaibhav112003/Car_Sales_Analysis/blob/main/Screenshot%202024-11-28%20235712.png)
+
+## Page 2
+
+![](https://github.com/Vaibhav112003/Car_Sales_Analysis/blob/main/Screenshot%202024-11-28%20235944.png)
+
